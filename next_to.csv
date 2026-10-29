@@ -1,0 +1,12 @@
+from_id,to_id,mins
+air,fort,6
+fort,cen,4
+cen,jn,3
+jn,stad,5
+har,mkt,4
+mkt,cen,3
+cen,mus,5
+mus,tech,6
+lake,jn,5
+jn,mus,4
+mus,mall,3
